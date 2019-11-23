@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70" started-at="2019-10-27T20:35:12 IST" finished-at="2019-10-27T20:35:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70" started-at="2019-10-27T20:35:12 IST" finished-at="2019-10-27T20:35:12 IST">
+      <class name="com.selenium_tutorial.testNG.Dependencies">
+        <test-method status="PASS" signature="highClass()[pri:0, instance:com.selenium_tutorial.testNG.Dependencies@335eadca]" name="highClass" duration-ms="11" started-at="2019-10-27T20:35:12 IST" finished-at="2019-10-27T20:35:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highClass -->
+        <test-method status="PASS" signature="higherSecondary()[pri:1, instance:com.selenium_tutorial.testNG.Dependencies@335eadca]" name="higherSecondary" duration-ms="1" started-at="2019-10-27T20:35:12 IST" finished-at="2019-10-27T20:35:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- higherSecondary -->
+        <test-method status="PASS" signature="engineering()[pri:2, instance:com.selenium_tutorial.testNG.Dependencies@335eadca]" name="engineering" duration-ms="3" started-at="2019-10-27T20:35:12 IST" finished-at="2019-10-27T20:35:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engineering -->
+      </class> <!-- com.selenium_tutorial.testNG.Dependencies -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

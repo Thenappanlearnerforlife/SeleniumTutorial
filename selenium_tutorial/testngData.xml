@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<Suite name="DataDriven">
+
+<Test name="DataDriven Framework">
+
+<parameter name="Username" value="Admin"/>
+
+<parameter name="Password" value="admin123"/>
+
+<Classes>
+
+<Class name="com.datadriven_framework.DataDriven"></Class>
+
+</Classes>
+
+
+</Test>
+
+</Suite>
